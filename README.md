@@ -1,1 +1,1 @@
-Stack and queue data structures
+Stack  and queue data structures
